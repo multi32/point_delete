@@ -1,0 +1,13 @@
+D:\c#\point_delete\point_delete\bin\Release\point_delete.exe.config
+D:\c#\point_delete\point_delete\bin\Release\point_delete.exe
+D:\c#\point_delete\point_delete\bin\Release\point_delete.pdb
+D:\c#\point_delete\point_delete\obj\Release\MainWindow.g.cs
+D:\c#\point_delete\point_delete\obj\Release\App.g.cs
+D:\c#\point_delete\point_delete\obj\Release\point_delete_MarkupCompile.cache
+D:\c#\point_delete\point_delete\obj\Release\point_delete_MarkupCompile.lref
+D:\c#\point_delete\point_delete\obj\Release\MainWindow.baml
+D:\c#\point_delete\point_delete\obj\Release\point_delete.g.resources
+D:\c#\point_delete\point_delete\obj\Release\point_delete.Properties.Resources.resources
+D:\c#\point_delete\point_delete\obj\Release\point_delete.csproj.GenerateResource.Cache
+D:\c#\point_delete\point_delete\obj\Release\point_delete.exe
+D:\c#\point_delete\point_delete\obj\Release\point_delete.pdb
