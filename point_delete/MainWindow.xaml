@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:point_delete"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525"
+        Title="二维离散点数据抽稀处理" Height="350" Width="525"
         ResizeMode="NoResize">
 
     <Grid x:Name="grid1">

@@ -11,3 +11,4 @@ D:\c#\point_delete\point_delete\obj\Release\point_delete.Properties.Resources.re
 D:\c#\point_delete\point_delete\obj\Release\point_delete.csproj.GenerateResource.Cache
 D:\c#\point_delete\point_delete\obj\Release\point_delete.exe
 D:\c#\point_delete\point_delete\obj\Release\point_delete.pdb
+D:\c#\point_delete\point_delete\obj\Release\point_delete.csprojResolveAssemblyReference.cache

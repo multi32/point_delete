@@ -205,8 +205,8 @@ namespace point_delete
                 {
                     sw.WriteLine(sourcePoint[element]);
                 }
-                Console.WriteLine(resultPoint.Count());
-                Console.Read();
+                MessageBox.Show(string.Format("处理完成！原始点数目为{0}，处理后点数为{1}",i, resultPoint.Count), "提示");
+
             }
             catch (Exception e)
             {
